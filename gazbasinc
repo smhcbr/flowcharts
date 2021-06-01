@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T13:18:36.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" version="14.7.3" etag="PI4jbIp_AZT0WYeNaEu1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-01T13:35:19.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="6oA1w4zRIBczKCfmKkZZ" version="14.7.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="7V-1lV-viCSJpsEC33hT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Gaz sensörü gaz seviyesini kontrol eder" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="315" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-5" value="Hayır" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7V-1lV-viCSJpsEC33hT-4">
+          <mxGeometry x="-0.378" relative="1" as="geometry">
+            <mxPoint x="1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="7V-1lV-viCSJpsEC33hT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-8" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7V-1lV-viCSJpsEC33hT-6">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Gaz seviyesi&amp;gt;500" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="516.25" y="190" width="97.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Gaz seviyesini&lt;br&gt;ekrana yazdır" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="7V-1lV-viCSJpsEC33hT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="520" />
+              <mxPoint x="280" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-21" value="Evet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7V-1lV-viCSJpsEC33hT-20">
+          <mxGeometry x="0.0545" y="-1" relative="1" as="geometry">
+            <mxPoint x="19" y="85" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-22" value="Hayır" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint x="380" y="610" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Gaz seviyesi&amp;gt;500" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="330" y="480" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-0" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-0" value="Başla" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="20" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-7" target="7V-1lV-viCSJpsEC33hT-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-7" value="Gaz alarmını&lt;br&gt;başlat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-9" target="7V-1lV-viCSJpsEC33hT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-9" value="Gaz uyarı&lt;br&gt;ışığını yak" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-12" target="7V-1lV-viCSJpsEC33hT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-12" value="Binanın &lt;br&gt;elektriğini kes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-14" target="7V-1lV-viCSJpsEC33hT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-14" value="Gaz sensörü gaz seviyesini kontrol eder" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-17" target="WIyWlLk6GJQsqaUBKTNV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-17" value="Gaz seviyesini&lt;br&gt;ekrana yazdır" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="500" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-23" target="7V-1lV-viCSJpsEC33hT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-23" value="Gaz alarmını&lt;br&gt;durdur" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="610" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-24" target="7V-1lV-viCSJpsEC33hT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-24" value="Gaz uyarı&lt;br&gt;ışığını kapat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="680" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7V-1lV-viCSJpsEC33hT-26" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-1lV-viCSJpsEC33hT-26" value="Binanın &lt;br&gt;elektriğini aktifleştir" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="680" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
