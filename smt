@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T07:23:00.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="LotR3SCpNBdi4Sy53Ns4" version="14.7.3" type="github"><diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-01T11:13:06.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="a-LvOnbkNJ3MrZhU6D1W" version="14.7.3" type="github">
+  <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5oD90AtIZEsjlobizUzl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="5oD90AtIZEsjlobizUzl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oD90AtIZEsjlobizUzl-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5oD90AtIZEsjlobizUzl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="5oD90AtIZEsjlobizUzl-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oD90AtIZEsjlobizUzl-5" value="Kullanıcı Görüntüle" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5oD90AtIZEsjlobizUzl-8" value="Evet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="5oD90AtIZEsjlobizUzl-7">
+          <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
+            <mxPoint x="580" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oD90AtIZEsjlobizUzl-9" value="Hayır" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="5oD90AtIZEsjlobizUzl-7">
+          <mxGeometry y="-25" relative="1" as="geometry">
+            <mxPoint x="325" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5oD90AtIZEsjlobizUzl-7" value="İşlem" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="275" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
